@@ -1,0 +1,137 @@
+﻿body 
+{
+    direction:rtl;
+}
+
+#container {
+    font-family: 'Guttman Hatzvi';
+    background-image: url('../pic/560288-PKRCAA-404.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 0 auto;
+    width: 960px;
+}
+
+#logo {
+    background-image: url('../pic/Logo.jpg');
+    background-repeat: no-repeat;
+    float: right;
+    background-size: 190px;
+    width: 192px;
+    height: 192px;
+}
+header {
+    background-color: #5CFFCE;
+    text-align: center;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    padding: 45px;
+}
+h1,h2 {
+   
+    text-align: center;
+    font-family: 'Guttman Hatzvi';
+    margin: 10px;
+}
+h1{
+    font-size:30px;
+}
+h2{
+    font-size:25px;
+}
+#three {
+    background-image: url('../pic/share.gif');
+    
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+    background-size: 200px;
+    padding: 2px 165px;
+}
+p, section {
+    text-align: right;
+    font-family: 'Guttman Hatzvi';
+    margin: 10px;
+    font-size:18px;
+    
+}
+#decoration {
+    margin: 14px 173px;
+    outline: 10px dotted #5CFFCE;
+    outline-offset: -15px;
+    padding: 10px;
+    width: 608px;
+}
+
+footer {
+    background-color: #5CFFCE;
+    text-align: center;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 90px 2px;
+}
+a{
+    color:steelblue;
+}
+
+#pic1 {
+    background-image: url('../pic/learn.gif');
+    background-repeat: no-repeat;
+    background-size: 440px;
+    height: 446px;
+    position: relative;
+    
+    right: -278px;
+}
+
+form {
+    position: relative;
+    left: -28px;
+}
+span
+{
+    font-size:50px;
+    color:aquamarine;
+}
+
+aside {
+    height: 400px;
+    width: 600px;
+}
+#pic2 {
+   
+    position: relative;
+    right: 297px;
+    top: -350px;
+}
+
+#sendform {
+    background-color:paleturquoise;
+    width: 200px;
+    height: 40px;
+    margin: 20px;
+}
+#ok{
+    font-family:'Guttman Hatzvi';
+    color:deeppink;
+    font-size:20px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input[type ='text'], input[type ='password'], select {
+    display: block;
+    margin-bottom: 15px;
+}
+
+input[type ='submit'] {
+    margin-top: 10px;
+}
+#center {
+    margin: 20px 161px;
+}
